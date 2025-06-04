@@ -95,4 +95,10 @@
     <None Remove="C:\Users\Jakub\.nuget\packages\pdfium.windows\1.0.0\build\pdfium_x64.dll" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Resouces\93a89ad1119d8e5e9b2dbe81416145ba.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
